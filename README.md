@@ -1,6 +1,5 @@
 ### Hi there 👋
-## About Me
-* I am Louay Magdy. 
+## About Me 
 * An Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt.
 * learning Full-Stack development. but good at Back-end development using _java_
 * interested in Machine Learning...isA I will start studying it in my next summer vacations
