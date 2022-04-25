@@ -1,4 +1,10 @@
 ### Hi there 👋
+## About Me
+* I am Louay Magdy. 
+* An Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt.
+* learning Full-Stack development. but good at Back-end development using _java_
+* interested in Machine Learning...isA I will start studying it in my next summer vacations
+* good at problem solving...isA I will take part in ecpc qualifications this year for the second time
 
 <!--
 **LouayMagdy/LouayMagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
