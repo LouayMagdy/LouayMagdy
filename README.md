@@ -1,8 +1,40 @@
-### Hi there 👋
+### Hi There And Welcome to my Github Page👋
 ## About Me 
+* My Name is : **Louay Magdy**
 * An Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt 🇪🇬.
-* Academic mail : es-Magdylouay@alexu.edu.eg
-* Linkedin Account : [Louay Magdy](https://www.linkedin.com/in/louay-magdy-b0a723201/)
+* From : Egypt 🇪🇬
+* ![Profile views](https://visitor-badge.glitch.me/badge?page_id=LouayMagdy)
+* [![Github](https://img.shields.io/github/followers/LouayMagdy?label=Follow&style=social)](https://github.com/LouayMagdy)
+
+
+## Activity
+<a href="https://github.com/Louay"><img alt="Louay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LouayMagdy&custom_title=Louay's%20Contribution%20Graph&theme=react-white" /></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LouayMagdy" /></p>
+
+ ## Languages Dealt With
+<p align="center">
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
+</br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouayMagdy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Louay" height="192px"/>
+</p>
+
+<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> -->
+<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> -->
+<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
+<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a> -->
+## Operating Systems Dealt With
+<p align="center">
+   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
+</br>
 
 ## Learning and Interests
 * currently learning Full-Stack development. but good at Back-end development using _java_ programming language
@@ -33,6 +65,22 @@
   - Binary Heaps
   - Various Sorting Techniques
   - Perfect Hashing And Universal Hashing
+
+## Contact Me !:
+Academic mail : es-Magdylouay@alexu.edu.eg </br>
+Gmail : magdylouay@gmail.com </br></br>
+<a href="https://www.linkedin.com/in/louay-magdy-b0a723201/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a> 
+<a href="https://www.youtube.com/channel/UCESzYVizQ3YWrdgROv_clsA">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 <!--
 **LouayMagdy/LouayMagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
