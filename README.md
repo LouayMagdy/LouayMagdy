@@ -55,7 +55,7 @@
    - Calculator Project (Full-Stack projet)
    - Paint Application (Front-end using _canvas_ library in _Angular_ framework)
    - Email Application (Backend with my team ... also you will find my own front-end as a practice)
-   - Producer-consumer (Full-Stack project) ... isA I will publish it soon
+   - Producer-consumer (Full-Stack project) ... still working on
    - Signal Flow graph Application in Control Systems (Back-end specially getting forward paths)
    - Equation Solver and Simultaneous Equation Solver (Frontend)
 * A bucket of DS implementations _**Java**_
