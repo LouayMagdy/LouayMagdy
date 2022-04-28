@@ -3,7 +3,7 @@
 * My Name is : **Louay Magdy**
 * An Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt 🇪🇬.
 * From : Egypt 🇪🇬
-* ![Profile views](https://visitor-badge.glitch.me/badge?page_id=LouayMagdy)
+<!-- * ![Profile views](https://visitor-badge.glitch.me/badge?page_id=LouayMagdy) -->
 * [![Github](https://img.shields.io/github/followers/LouayMagdy?label=Follow&style=social)](https://github.com/LouayMagdy)
 
 
