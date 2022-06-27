@@ -21,7 +21,7 @@
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 </br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouayMagdy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Louay" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouayMagdy&langs_count=11&show_icons=true&locale=en&layout=compact&theme=light" alt="Louay" height="192px"/>
 </p>
 
 <!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> -->
