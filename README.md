@@ -2,7 +2,7 @@
 ## About Me 
 * My Name is : **Louay Magdy**
 * An Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt 🇪🇬.
-* From : Egypt 🇪🇬
+* From : Egypt
 <!-- * ![Profile views](https://visitor-badge.glitch.me/badge?page_id=LouayMagdy) -->
 * [![Github](https://img.shields.io/github/followers/LouayMagdy?label=Follow&style=social)](https://github.com/LouayMagdy)
 
@@ -14,6 +14,7 @@
  ## Languages Dealt With
 <p align="center">
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'></a>
@@ -38,7 +39,7 @@
 </br>
 
 ## Learning and Interests
-* currently learning Full-Stack development. but good at Back-end development using _java_ programming language
+* currently learning Full-Stack development.
 * interested in Machine Learning 🤖 ... isA I will start studying it in my next summer vacations 
 * good at problem solving 🧠 ... isA I will take part in ecpc qualifications this year for the second time </br> Also I wish to make a repo with every problem solved by me
 
