@@ -8,8 +8,9 @@
 
 
 ## Activity
-<a href="https://github.com/Louay"><img alt="Louay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LouayMagdy&custom_title=Louay's%20Contribution%20Graph&theme=react-dark" /></a>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LouayMagdy&bg_color=0d0d0d&color=41b9e1&line=a2a0a1&point=1badc0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=compact&theme=transparent"/></p>
 
  ## Languages Dealt With
 <p align="center">
