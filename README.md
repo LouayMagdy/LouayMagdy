@@ -75,6 +75,7 @@
   -------------
   - Weather-Station-Monitoring ... _(Java, Apache Kafka, Apache Spark, Bitcask Implementation, ElasticSearch, and Kibana)_ 
 * AI Applications 🤖
+  ---------------
   - Connect-4 game (Adversarial search).
          
 * Mobile Applications 📱
