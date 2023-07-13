@@ -59,7 +59,8 @@
    - Chess Game in C Programming Language
    - Simple Shell application .....(_for Linux)_
    - Multi-threaded matrix Multiplication .....(_for Linux)_
-   - Caltrain simulation .... thread synchronization part only .....(_for Linux)_ 
+   - Caltrain simulation .... thread synchronization part only .....(_for Linux)_
+   - pintos project (2 phases only)
 
 * Web Projects _**Java & TypeScript**_ 💻
    ----------
@@ -70,6 +71,12 @@
    - Producer-consumer (Full-Stack project) ... still working on
    - Signal Flow graph Application in Control Systems (Back-end specially getting forward paths)
    - Equation Solver and Simultaneous Equation Solver (Frontend)
+* Data Intensive Applications
+  -------------
+  - Weather-Station-Monitoring ... _(Java, Apache Kafka, Apache Spark, Bitcask Implementation, ElasticSearch, and Kibana)_ 
+* AI Applications 🤖
+  - Connect-4 game (Adversarial search).
+         
 * Mobile Applications 📱
   ---------
    - Bloodify Mobile Application ... _Spring Boot_- _Fluuter_   
