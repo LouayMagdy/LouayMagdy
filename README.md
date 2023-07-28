@@ -1,5 +1,7 @@
-![github-header-image (2)](https://github.com/LouayMagdy/LouayMagdy/assets/95547833/b21076b0-6339-4c8f-a4de-477807538ab4)
-![Visitor Count](https://profile-counter.glitch.me/{LouayMagdy}/count.svg)
+![github-header-image (2)](https://github.com/LouayMagdy/LouayMagdy/assets/95547833/b21076b0-6339-4c8f-a4de-477807538ab4) </br>
+<p align="center"> 
+ <img alt="Gmail" src="https://profile-counter.glitch.me/{LouayMagdy}/count.svg"/>
+</p>
  
 ## About me:
 - I'm an undergraduate CSE student, Faculty of Engineering, ALexandria University, Egypt.
