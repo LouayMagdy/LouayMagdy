@@ -1,9 +1,10 @@
 ![github-header-image (2)](https://github.com/LouayMagdy/LouayMagdy/assets/95547833/b21076b0-6339-4c8f-a4de-477807538ab4) </br>
+<p align="center"> Visit Number </p>
 <p align="center"> 
  <img alt="Gmail" src="https://profile-counter.glitch.me/{LouayMagdy}/count.svg"/>
 </p>
  
-## About me:
+## About me 👋:
 - I'm an undergraduate CSE student, Faculty of Engineering, ALexandria University, Egypt.
 - **✉ Contact Me!:** 
   <p align="center"> 
@@ -32,9 +33,9 @@
 
 ## Activity 📊
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouayMagdy&bg_color=0d0c0d&color=bab5b6&line=f5f6fa&point=a19b9b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=compact&theme=transparent"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LouayMagdy&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></p>
 
- ## Languages & Frameworks Dealt With 
+## Languages & Frameworks Dealt With 👨‍💻
 <p align="center">
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
@@ -53,15 +54,16 @@
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'></a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Louay" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=donut&theme=transparent" alt="Louay" height="302px" width="350px"/>
 
-## Operating Systems Dealt With
+
+## Operating Systems Dealt With 🐧
 <p align="center">
    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-## Projects I contributed to
+## Projects I contributed to 💼
 * Data Intensive Applications
   -------------
   - [Weather-Station-Monitoring ❄](https://github.com/LouayMagdy/Weather-Stations-Monitoring) ... _(Java, Apache Kafka, Apache Spark, Bitcask Implementation, ElasticSearch, and Kibana)_
@@ -82,15 +84,16 @@
 
 * AI Applications 🤖
   ---------------
-  - [Clustering Application](https://github.com/Basel-byte/Network-Anomaly-Detection)
-  - [Connect-4 game](https://github.com/LouayMagdy/Connect-4) (Adversarial search).
+  - [Speech-Emotion Recognition using CNNs](https://github.com/LouayMagdy/Speech-Emotion-Recognition) 😶
+  - [Network Anomaly Detection using Clustering](https://github.com/Basel-byte/Network-Anomaly-Detection) 📉
+  - [Connect-4 game](https://github.com/LouayMagdy/Connect-4) (Adversarial search). 📀💿
 
-* C Language projects _**C**_ C
+* C Language projects _**C**_ ©
    ----------------
    - [Chess Game ♟](https://github.com/LouayMagdy/Chess-Project)
-   - [Simple Shell application for Linux](https://github.com/LouayMagdy/Lab1OS...Simple-Shell)
-   - [Multi-threaded matrix Multiplication .....(_for Linux)_](https://github.com/LouayMagdy/Lab2-OS..ThreadedMatrixMultiplication)
-   - [Caltrain simulation .... thread synchronization part only .....(_for Linux)_](https://github.com/LouayMagdy/LAB-3-OS...Synchronisation-using-pthreads)
+   - [Simple Shell application for Linux](https://github.com/LouayMagdy/Lab1OS...Simple-Shell) 👨‍💻
+   - [Multi-threaded matrix Multiplication .....(_for Linux)_](https://github.com/LouayMagdy/Lab2-OS..ThreadedMatrixMultiplication) 
+   - [Caltrain simulation .... thread synchronization part only .....(_for Linux)_](https://github.com/LouayMagdy/LAB-3-OS...Synchronisation-using-pthreads) 🚂
    - pintos project (2 phases only)
       
 * Miscellaneous
