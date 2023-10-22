@@ -6,6 +6,7 @@
  
 ## About me 👋:
 - I'm an undergraduate CSE student, Faculty of Engineering, ALexandria University, Egypt.
+- 💼 ex-Software Intern at Bibliotheca Alexandrina.
 - **✉ Contact Me!:** 
   <p align="center"> 
    <a href="https://www.linkedin.com/in/louay-magdy-b0a723201/">
@@ -39,19 +40,22 @@
 <p align="center">
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'></a>
 <a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'></a>
+<a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mariadb.svg'></a>
 <a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/docker.svg'></a>
 <a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/kubernetes.svg'></a>
-<a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/git.svg'></a> 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>  
+<a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/git.svg'></a>   
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a> </br>
 <a><img width ='32px' src ='https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png'></a>
 <a><img width='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/kafka.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'></a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayMagdy&langs_count=12&show_icons=true&locale=en&layout=donut&theme=transparent" alt="Louay" height="302px" width="350px"/>
