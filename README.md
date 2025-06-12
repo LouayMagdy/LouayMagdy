@@ -6,7 +6,7 @@
  
 ## About me 👋:
 - 🎓 CSED'24 Graduate @ Faculty of Engineering, ALexandria University, Egypt.
-- 🎖️ Active Soldier & Backend Developer @ Egyptian Navy Forces, Information Systems Section 🇪🇬 ⚓
+- 🎖️ Active Soldier & Backend Developer @ Egyptian Naval Forces, Information Systems Section 🇪🇬 ⚓
 - 💻 ex-Software Intern at Bibliotheca Alexandrina.
 - **✉ Contact Me!:** 
   <p align="center"> 
