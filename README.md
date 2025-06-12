@@ -5,8 +5,9 @@
 </p>
  
 ## About me 👋:
-- I'm an undergraduate CSE student, Faculty of Engineering, ALexandria University, Egypt.
-- 💼 ex-Software Intern at Bibliotheca Alexandrina.
+- 🎓 CSED'24 Graduate @ Faculty of Engineering, ALexandria University, Egypt.
+- 🎖️ Active Soldier & Backend Developer @ Egyptian Navy Forces, Information Systems Section 🇪🇬 ⚓
+- 💻 ex-Software Intern at Bibliotheca Alexandrina.
 - **✉ Contact Me!:** 
   <p align="center"> 
    <a href="https://www.linkedin.com/in/louay-magdy-b0a723201/">
@@ -79,6 +80,10 @@
 
 * Web Projects 💻
    ----------
+   - Graduation Project 🎓: [BTS Application 🧠](https://github.com/Brain-Tumor-Sub-regional-Segmentation/BTS-Applicaion) using _**Reactjs**_, and _**Firebase**_ 
+   - [Library Management System 📚](https://github.com/LouayMagdy/library-managment-system) using _**Nodejs**_, and _**Expressjs**_
+   - [Ground Truth Editor App for Data Collection 🎯](https://github.com/LouayMagdy/BA-ground-truth-editor) using _**Nodejs**_, _**Expressjs**_, _**Reactjs**_
+   - [Graph All-Loops Detector ➰🕸](https://github.com/LouayMagdy/BA-loop-detection) using _**SpringBoot**_, and _**Reactjs**_
    - Astronaut Game Project 👨‍🚀([Backend](https://github.com/LouayMagdy/AstronautGameBackend) using _**Springboot**_ & [Frontend](https://github.com/LouayMagdy/Astronaut-Game-frontEnd) using _**Reactjs**_ )
    - Email Application 📧([Backend](https://github.com/LouayMagdy/EmailProject-Backend) using _**Springboot**_ & [Frontend](https://github.com/LouayMagdy/EmailProjectFront) using _**Angular**_ )
    - Paint Application 🖌 ([Frontend](https://github.com/LouayMagdy/PaintFrontEnd) using **_canvas_** in _**Angular**_ )
@@ -88,12 +93,14 @@
 
 * AI Applications 🤖
   ---------------
+  - Graduation Project 🎓: Brain Tumor Segmentation using DL Models 🧠 [Visit our gitub org.](https://github.com/Brain-Tumor-Sub-regional-Segmentation?view_as=public)
   - [Speech-Emotion Recognition using CNNs](https://github.com/LouayMagdy/Speech-Emotion-Recognition) 😶
   - [Network Anomaly Detection using Clustering](https://github.com/Basel-byte/Network-Anomaly-Detection) 📉
   - [Connect-4 game](https://github.com/LouayMagdy/Connect-4) (Adversarial search). 📀💿
 
 * C Language projects _**C**_ ©
    ----------------
+   - [Lexical & Syntactic Compiler Builder ⚙️🧱](https://github.com/LouayMagdy/Compiler)
    - [Chess Game ♟](https://github.com/LouayMagdy/Chess-Project)
    - [Simple Shell application for Linux](https://github.com/LouayMagdy/Lab1OS...Simple-Shell) 👨‍💻
    - [Multi-threaded matrix Multiplication .....(_for Linux)_](https://github.com/LouayMagdy/Lab2-OS..ThreadedMatrixMultiplication) 
